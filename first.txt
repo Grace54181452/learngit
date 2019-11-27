@@ -1,2 +1,6 @@
 adsdd
+<<<<<<< HEAD
 aadd
+=======
+asds
+>>>>>>> 60968456d2ef6587c3283d7fbec85a62e5a42902
